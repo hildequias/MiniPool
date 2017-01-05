@@ -2,7 +2,7 @@
 //  b2Sprite.cpp
 //  MiniPool
 //
-//  Created by Roger Engelbert on 1/13/13.
+//  Created by Hildequias.Junior on 1/13/13.
 //
 //
 

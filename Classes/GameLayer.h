@@ -2,8 +2,8 @@
 //  GameLayer.h
 //  MiniPool
 //
-//  Created by Roger Engelbert on 1/13/13.
-//  Copyright __MyCompanyName__ 2013. All rights reserved.
+//  Created by Hildequias.Junior on 1/13/13.
+//  Copyright __Pixonsoft__ 2013. All rights reserved.
 //
 #ifndef __GAME_LAYER_H__
 #define __GAME_LAYER_H__

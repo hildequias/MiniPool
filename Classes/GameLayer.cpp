@@ -2,8 +2,8 @@
 //  GameLayer.cpp
 //  MiniPool
 //
-//  Created by Roger Engelbert on 1/13/13.
-//  Copyright __MyCompanyName__ 2013. All rights reserved.
+//  Created by Hildequias.Junior on 1/13/13.
+//  Copyright __Pixonsoft__ 2013. All rights reserved.
 //
 #include "GameLayer.h"
 #include "CollisionListener.h"
